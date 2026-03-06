@@ -1,0 +1,5 @@
+{
+  "name": "Laundry Tracker",
+  "description": "A simple family app to track identical socks and boxers between father, brother, and son.",
+  "requestFramePermissions": []
+}
